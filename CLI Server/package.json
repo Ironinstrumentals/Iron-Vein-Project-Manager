@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  },
+  "version": "0.0.1",
+  "scripts": {
+    "start":"node server.js"
+ },
+ "author": "IronInstrumentals",
+ "description": "Iron Vein Project Manager CLI Server"
+}
